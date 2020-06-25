@@ -33,4 +33,4 @@
 
 - Show last 5 commits:
 
-`git log -5`
+`git log -{{5}}`
